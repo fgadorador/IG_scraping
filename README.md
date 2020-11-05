@@ -1,5 +1,5 @@
 # IG_scraping
-Este proyecto consiste en la obtención de información, mediante web scraping, sobre videojuegos en la página web  Instant-Gaming (https://www.instant-gaming.com/), para posteriormente compararlos con los precios en Steam (https://store.steampowered.com/) utilizando selenium.
+Este proyecto consiste en la obtención de información, mediante web scraping, sobre videojuegos en la página web Instant-Gaming (https://www.instant-gaming.com/), para posteriormente compararlos con los precios en Steam (https://store.steampowered.com/) utilizando selenium.
 
 ## Autores
 - Amanda Iglesias Moreno
@@ -14,4 +14,5 @@ En la carpeta **Scripts** se en cuenta el código del proyecto, que consta de 3 
 Fuera de la carpeta tenemos los siguientes ficheros:
 - **Practica1.pdf**: este documento contiene las respuestas a las preguntas que se plantean el la práctica 1 de la asignatura.
 - **IG_data_YYYY-MM-DD.csv**: este es el dataset generado en el día especificado. Contiene los siguientes campos: 'id','title', 'price_ig', 'discount', 'price_retail', 'price_steam', 'region', 'DLC', 'platform', 'link', 'availability', 'genre', 'languages', 'release_date', 'user_rating', 'number_comments', 'review' y 'rating_review'.
+- **background.jpg**: imágen de fondo de la página Instant-Gaming.
 - **El DOI a los datos?**
