@@ -12,7 +12,7 @@ En la carpeta **Scripts** se en cuenta el código del proyecto, que consta de 3 
 - **main.py**: este script llama a la clase *Ig_scraper* especificando el path donde tenemos el webdriver instalado y el navegador que utilizamos. El argumento *record_images* está definido por defecto como *False*, si los especificamos como *True*, se crearía una carpeta **imagenes** donde se guardarían las portadas de los videojuegos con su id.
 
 Fuera de la carpeta tenemos los siguientes ficheros:
-- **Practica1.pdf**: este documento contiene las respuestas a las preguntas que se plantean el la práctica 1 de la asignatura.
+- **Práctica_1_web_scraping.pdf**: este documento contiene las respuestas a las preguntas que se plantean el la práctica 1 de la asignatura.
 - **IG_data_YYYY-MM-DD.csv**: este es el dataset generado en el día especificado. Contiene los siguientes campos: 'id','title', 'price_ig', 'discount', 'price_retail', 'price_steam', 'region', 'DLC', 'platform', 'link', 'availability', 'genre', 'languages', 'release_date', 'user_rating', 'number_comments', 'review' y 'rating_review'.
 - **background.jpg**: imágen de fondo de la página Instant-Gaming.
 - **El DOI a los datos?**
