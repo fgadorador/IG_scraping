@@ -15,4 +15,6 @@ Fuera de la carpeta tenemos los siguientes ficheros:
 - **Práctica_1_web_scraping.pdf**: este documento contiene las respuestas a las preguntas que se plantean el la práctica 1 de la asignatura.
 - **IG_data_YYYY-MM-DD.csv**: este es el dataset generado en el día especificado. Contiene los siguientes campos: 'id','title', 'price_ig', 'discount', 'price_retail', 'price_steam', 'region', 'DLC', 'platform', 'link', 'availability', 'genre', 'languages', 'release_date', 'user_rating', 'number_comments', 'review' y 'rating_review'.
 - **background.jpg**: imágen de fondo de la página Instant-Gaming.
-- **El DOI a los datos?**
+
+## Publicación del dataset
+Fernando García Dorador, & Amanda Iglesias Moreno. (2020). Videogame data from Instant-Gaming [Data set]. Zenodo. http://doi.org/10.5281/zenodo.4263349
