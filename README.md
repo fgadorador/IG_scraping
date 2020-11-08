@@ -17,4 +17,4 @@ Fuera de la carpeta tenemos los siguientes ficheros:
 - **background.jpg**: imágen de fondo de la página Instant-Gaming.
 
 ## Publicación del dataset
-Fernando García Dorador, & Amanda Iglesias Moreno. (2020). Videogame data from Instant-Gaming [Data set]. Zenodo. http://doi.org/10.5281/zenodo.4263349
+Fernando García Dorador & Amanda Iglesias Moreno. (2020). Videogame data from Instant-Gaming [Data set]. Zenodo. http://doi.org/10.5281/zenodo.4263349
